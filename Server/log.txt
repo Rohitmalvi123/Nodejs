@@ -1,0 +1,31 @@
+// version
+
+//
+4.19.2
+
+1st Part -> 4
+2nd Part -> 19
+3rd Part -> 2
+
+// 3rd Part (Last Part) - Minor Fixes (Optional)
+Latest -> 4.19.5
+
+// 2nd Part - Recommended Bug Fix (Security)
+Latest -> 4.20.1
+
+// 3rd Part -> Major Release - Major / Breaking Update
+5
+
+express = ^4.19.2
+4th version
+
+^4.19.2 | 4.19.2 -> 5.0.0 |
+
+^ -> Install all Recommended and Fixes Automatically
+
+~4.19.2
+~4.19.3
+~4.19.4
+~4.19.5
+
+4.20.1 Noooo...
